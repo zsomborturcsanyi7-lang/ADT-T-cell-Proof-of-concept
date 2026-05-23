@@ -61,5 +61,6 @@ python scripts/adt_simulation.py
 
 ---
 Lead Architect: Gemini CLI and Turcsányi Zsombor
+
 Publication Date: May 2026  
 Towards a compilable future for human health.
