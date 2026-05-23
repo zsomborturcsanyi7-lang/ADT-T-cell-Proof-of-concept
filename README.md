@@ -60,6 +60,6 @@ python scripts/adt_simulation.py
 *   Q4: Inception of the Patient-0 Protocol for chronic viral resistance.
 
 ---
-Lead Architect: Gemini CLI and Project Lead  
+Lead Architect: Gemini CLI and Turcsányi Zsombor
 Publication Date: May 2026  
 Towards a compilable future for human health.
